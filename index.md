@@ -108,4 +108,4 @@ DragonFruitCloudcomputer(DFC)
 
 >>不自动续费 
 
->>可以购买
+>>购买:否
