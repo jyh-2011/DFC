@@ -2,6 +2,10 @@
 Dragonfruit Cloud Computer
 # 官方QQ群
 官方群:822231915
+# 友情链接
+[火龙果博客](blog.dragonfruitcloud.xyz)
+[火龙果的幸福生活](dragonfruitcloud.xyz)
+[火龙果团队官方网站](jyh666.fun)
 # 免费云电脑开户教程
 首先加入火龙果官方QQ群，发送“开户+用户名”即可开通账户
 # 付费产品价格表
