@@ -10,7 +10,7 @@ Dragonfruit Cloud Computer
 # 赞助名单
 Number1 邓某人 1k+ \
 Number2 断殇 150 \
-Number3 原神菜狗显卡 200 \
+Number3 原神菜狗显卡 200
 # 免费云电脑开户教程
 首先加入火龙果官方QQ群，发送“开户+用户名”即可开通账户
 # 付费产品
